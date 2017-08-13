@@ -25,16 +25,11 @@
 
     <!-- Required: source control information: -->
     <scm>
-        <connection>
-            scm:git:https://github.com/minlia-projects/releaser.git
-        </connection>
-        <developerConnection>
-            scm:git:https://github.com/minlia-projects/releaser.git
-        </developerConnection>
         <url>https://github.com/minlia-projects/releaser</url>
+        <connection>scm:git:git://github.com/minlia-projects/releaser.git</connection>
+        <developerConnection>scm:git:git@github.com:minlia-projects/releaser.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
-    
 
     <distributionManagement>
         <!-- You'll probably want to test this out with a local copy of Nexus OSS. -->
