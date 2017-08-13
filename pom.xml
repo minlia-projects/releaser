@@ -26,8 +26,8 @@
     <!-- Required: source control information: -->
     <scm>
         <url>https://github.com/minlia-projects/releaser</url>
-        <connection>scm:git:git://github.com/minlia-projects/releaser.git</connection>
-        <developerConnection>scm:git:git@github.com:minlia-projects/releaser.git</developerConnection>
+        <connection>scm:git:https://github.com/minlia-projects/releaser.git</connection>
+        <developerConnection>scm:git:https@github.com:minlia-projects/releaser.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
